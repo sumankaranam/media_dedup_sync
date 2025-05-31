@@ -1,0 +1,6 @@
+Flask==2.0.1
+Pillow>=10.0.0
+PyQt5==5.15.4
+SQLAlchemy==1.4.22
+python-magic==0.4.27
+hashlib==2008.10.1
